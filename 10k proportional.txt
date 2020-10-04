@@ -1,0 +1,47 @@
+id	label	x	y	weight<Amount of Abstracts>
+0	Physikalische und Theoretische Chemie	5	0	141
+1	Informatik	23	0	255
+2	Literaturwissenschaft	37	0	164
+3	Kunst-, Musik-, Theater- und Medienwissenschaften	43	0	129
+4	Chemische Festkörper- und Oberflächenforschung	1	1	102
+5	Philosophie	33	3	71
+6	Geschichtswissenschaften	49	4	276
+7	Elektrotechnik und Informationstechnik	13	7	183
+8	Theologie	38	7	79
+9	Psychologie	27	9	254
+10	Sozial- und Kulturanthropologie, Außereuropäische Kulturen, Judaistik und Religionswissenschaft	40	9	147
+11	Teilchen, Kerne und Felder	25	11	108
+12	Alte Kulturen	47	12	204
+13	Optik, Quantenoptik und Physik der Atome, Moleküle und Plasmen	3	13	138
+14	Astrophysik und Astronomie	24	13	137
+15	Physik der kondensierten Materie	0	14	359
+16	Systemtechnik	14	15	151
+17	Erziehungswissenschaft und Bildungsforschung	34	16	82
+18	Geographie	49	19	84
+19	Mechanik und Konstruktiver Maschinenbau	4	20	161
+20	Mathematik	20	20	281
+21	Rechtswissenschaften	49	20	89
+22	Wirtschaftswissenschaften	44	23	153
+23	Bauwesen und Architektur	10	25	135
+24	Geochemie, Mineralogie und Kristallographie	30	26	174
+25	Wasserforschung	38	26	88
+26	Sozialwissenschaften	49	28	216
+27	Geologie und Paläontologie	28	29	230
+28	Produktionstechnik	12	32	260
+29	Geophysik und Geodäsie	23	32	109
+30	Atmosphären-, Meeres- und Klimaforschung	34	32	140
+31	Materialwissenschaft	0	35	148
+32	Polymerforschung	18	36	118
+33	Zoologie	37	37	196
+34	Pflanzenwissenschaften	46	38	293
+35	Werkstofftechnik	6	40	145
+36	Agrar-, Forstwissenschaften und Tiermedizin	43	41	250
+37	Molekülchemie	21	42	248
+38	Statistische Physik, Weiche Materie, Biologische Physik, Nichtlineare Dynamik	1	45	65
+39	Analytik, Methodenentwicklung (Chemie)	29	45	55
+40	Mikrobiologie, Virologie und Immunologie	47	46	390
+41	Verfahrenstechnik, Technische Chemie	14	47	153
+42	Biologische Chemie und Lebensmittelchemie	35	47	56
+43	Wärmeenergietechnik, Thermische Maschinen, Strömungsmechanik	7	49	179
+44	Medizin	44	49	1189
+45	Grundlagen der Biologie und Medizin	49	49	629

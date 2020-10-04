@@ -1,0 +1,49 @@
+id	label	x	y	weight<Amount of Abstracts>
+0	Geologie und Paläontologie	15	0	23
+1	Geographie	18	0	5
+2	Pflanzenwissenschaften	36	0	25
+3	Atmosphären-, Meeres- und Klimaforschung	4	1	15
+4	Mikrobiologie, Virologie und Immunologie	49	2	42
+5	Geochemie, Mineralogie und Kristallographie	14	4	19
+6	Agrar-, Forstwissenschaften und Tiermedizin	37	5	25
+7	Neurowissenschaft	44	5	48
+8	Zoologie	25	6	21
+9	Medizin	49	6	122
+10	Geophysik und Geodäsie	0	7	9
+11	Grundlagen der Biologie und Medizin	41	8	58
+12	Analytik, Methodenentwicklung (Chemie)	11	9	4
+13	Biologische Chemie und Lebensmittelchemie	45	14	5
+14	Astrophysik und Astronomie	4	15	24
+15	Polymerforschung	19	15	13
+16	Mechanik und Konstruktiver Maschinenbau	27	17	17
+17	Philosophie	36	18	7
+18	Molekülchemie	14	21	18
+19	Physik der kondensierten Materie	3	22	40
+20	Rechtswissenschaften	46	22	15
+21	Bauwesen und Architektur	32	23	8
+22	Wirtschaftswissenschaften	49	24	14
+23	Chemische Festkörper- und Oberflächenforschung	8	25	11
+24	Informatik	35	26	29
+25	Teilchen, Kerne und Felder	0	29	12
+26	Mathematik	26	29	37
+27	Physikalische und Theoretische Chemie	13	30	8
+28	Elektrotechnik und Informationstechnik	34	30	19
+29	Statistische Physik, Weiche Materie, Biologische Physik, Nichtlineare Dynamik	18	31	6
+30	Kunst-, Musik-, Theater- und Medienwissenschaften	43	34	14
+31	Wasserforschung	22	35	9
+32	Optik, Quantenoptik und Physik der Atome, Moleküle und Plasmen	2	37	16
+33	Systemtechnik	21	37	12
+34	Verfahrenstechnik, Technische Chemie	10	40	17
+35	Sozialwissenschaften	32	40	19
+36	Literaturwissenschaft	49	41	18
+37	Materialwissenschaft	0	43	21
+38	Alte Kulturen	28	43	22
+39	Geschichtswissenschaften	38	43	26
+40	Werkstofftechnik	0	45	12
+41	Wärmeenergietechnik, Thermische Maschinen, Strömungsmechanik	12	45	17
+42	Theologie	49	45	17
+43	Erziehungswissenschaft und Bildungsforschung	24	46	7
+44	Produktionstechnik	1	49	21
+45	Psychologie	19	49	30
+46	Sprachwissenschaften	29	49	18
+47	Sozial- und Kulturanthropologie, Außereuropäische Kulturen, Judaistik und Religionswissenschaft	41	49	5

@@ -1,0 +1,172 @@
+id	label	x	y	weight<Amount of Abstracts>
+0	Biochemie	0	0	35
+1	Molekulare Neurowissenschaft und Neurogenetik	3	0	17
+2	Unfallchirurgie und Orthopädie	9	0	29
+3	Zelluläre Neurowissenschaft	12	0	22
+4	Wissenschaftsgeschichte	23	0	6
+5	Neuere und Neueste Geschichte (einschl. Europäische Geschichte der Neuzeit und Außereuropäische Geschichte)	26	0	10
+6	Sozialpsychologie und Arbeits- und Organisationspsychologie	46	0	2
+7	Städtebau/Stadtentwicklung, Raumplanung, Verkehrs- und Infrastrukturplanung, Landschaftsplanung	47	0	5
+8	Neuere deutsche Literatur	27	1	18
+9	FK Molekülchemie	40	1	1
+10	Elektrotechnik und Informationstechnik	48	1	2
+11	Klinische Neurowissenschaften III - Augenheilkunde	7	2	18
+12	Konstruktion, Maschinenelemente, Produktentwicklung	38	2	10
+13	Konstruktiver Ingenieurbau, Bauinformatik und Baubetrieb	49	2	4
+14	Medizinische Mikrobiologie, Parasitologie, medizinische Mykologie und Hygiene, Molekulare Infektionsbiologie	0	3	16
+15	Strukturbiologie	4	3	6
+16	Leichtbau, Textiltechnik	15	3	3
+17	Mechanik und Konstruktiver Maschinenbau	39	3	1
+18	Rheumatologie, Klinische Immunologie, Allergologie	6	4	7
+19	Theorie und Modellierung	14	4	3
+20	Evangelische Theologie	16	4	5
+21	Ägyptische und Vorderasiatische Altertumswissenschaften	21	4	6
+22	Asienbezogene Wissenschaften	30	4	11
+23	Theoretische Informatik	40	4	17
+24	Teilchen, Kerne und Felder	49	4	3
+25	Islamwissenschaften, Arabistik, Semitistik	28	5	3
+26	Spanende Fertigungstechnik	42	5	10
+27	Klinische Neurowissenschaften I - Neurologie, Neurochirurgie, Neuroradiologie	5	6	19
+28	Bioinformatik und Theoretische Biologie	12	6	3
+29	Kunst-, Musik-, Theater- und Medienwissenschaften	19	6	1
+30	Soziologische Theorie	20	6	3
+31	Geschichte der Philosophie	23	6	5
+32	Automatisierungstechnik, Regelungssysteme, Robotik, Mechatronik, Cyber Physical Systems	36	6	6
+33	Immunologie	2	7	20
+34	Molekulare und Zelluläre Neurologie, Neuropathologie	6	7	7
+35	Ernährungswissenschaften	17	7	1
+36	Katholische Theologie	19	7	3
+37	Wirtschafts- und Sozialgeschichte	46	7	1
+38	Wärmeenergietechnik, Thermische Maschinen, Strömungsmechanik	49	7	1
+39	Grundlagen des Rechts und der Rechtswissenschaft	17	8	1
+40	Geschichtswissenschaften	33	8	1
+41	Wirtschaftspolitik und Finanzwissenschaften	34	8	6
+42	Mechanik	48	8	12
+43	Akustik	49	8	2
+44	Allgemeine und Vergleichende Sprachwissenschaft, Typologie, Außereuropäische Sprachen	14	9	7
+45	Herz-, Thorax-, Gefäßchirurgie	15	9	2
+46	Chemie	21	9	3
+47		33	9	10
+48	Produktionsorganisation und Betriebswissenschaften	49	9	18
+49	Gastroenterologie, Stoffwechsel	9	10	6
+50	Physik	20	10	4
+51	Mittelalterliche Geschichte	28	10	3
+52	Europäische und Amerikanische Literaturen	29	10	6
+53	Strukturierung und Funktionalisierung	49	10	3
+54	Grundlagen der Tiermedizin	15	11	1
+55	Herstellung und Eigenschaften von Funktionsmaterialien	49	11	4
+56	Radiologie und Nuklearmedizin	10	12	13
+57	Pathologie	15	12	6
+58	Theater- und Medienwissenschaften	24	12	5
+59	Hals-Nasen-Ohrenheilkunde	43	12	10
+60	Humangenetik	0	13	36
+61	Kinder- und Jugendmedizin	5	13	55
+62	Mechanische Verfahrenstechnik	17	13	1
+63	Kunstgeschichte	29	13	8
+64	FK Medizin	39	13	3
+65	Verbundwerkstoffe	19	14	2
+66	Baustoffwissenschaften, Bauchemie, Bauphysik	49	14	12
+67	Differentielle Psychologie, Klinische Psychologie, Medizinische Psychologie, Methoden	8	15	8
+68	Entwicklungsbiologie	13	15	12
+69	Chemische und Thermische Verfahrenstechnik	15	15	4
+70	Messsysteme	16	15	3
+71	Klassische Philologie	29	15	3
+72	Biomedizinische Technik und Medizinische Physik	38	15	11
+73	Biomaterialien	39	15	5
+74	Toxikologie, Arbeitsmedizin und Rechtsmedizin	14	16	1
+75	Ökologie von Agrarlandschaften	18	16	2
+76	FK Bauwesen und Architektur	47	16	2
+77	Wirtschaftstheorie	15	17	3
+78	FK Agrar-, Forstwissenschaften, Gartenbau und Tiermedizin	16	17	2
+79	Ethnologie und Europäische Ethnologie	26	17	5
+80	Architektur, Bau- und Konstruktionsgeschichte, Bauforschung, Ressourcenökonomie im Bauwesen	31	17	2
+81	Allgemeine und vergleichende Literaturwissenschaft; Kulturwissenschaft	34	17	1
+82	Physikalische Chemie von Festkörpern und Oberflächen, Materialcharakterisierung	45	17	6
+83	Frauenheilkunde und Geburtshilfe	0	18	29
+84	Agrarökonomie und -soziologie	21	18	2
+85	FK Grundlagen der Biologie und Medizin	34	18	3
+86	Strömungsmechanik	43	18	14
+87	Angewandte Mechanik, Statik und Dynamik	44	18	1
+88	Klinische Neurowissenschaften II - Psychiatrie, Psychotherapie, Kinder- und Jugendspychiatrie	12	19	43
+89	Empirische Sozialforschung	32	19	13
+90	Politikwissenschaft	33	19	8
+91	Hämatologie, Onkologie, Transfusionsmedizin	7	20	22
+92	Anästhesiologie	10	20	37
+93	Nephrologie	12	20	15
+94	Biologische und molekulare Psychiatrie	49	20	6
+95	Physiologie	11	21	15
+96	Elektrische Energieerzeugung, -übertragung, -verteilung und -anwendung	36	21	4
+97	Pflanzenwissenschaften	38	21	1
+98	Nachrichten- und Hochfrequenztechnik, Kommunikationstechnik und -netze, Theoretische Elektrotechnik	41	21	7
+99	Epidemiologie, Medizinische Biometrie, Medizinische Informatik	49	21	3
+100	Betriebswirtschaftslehre	15	22	2
+101	Betriebs-, Kommunikations-, Datenbank- und verteilte Systeme	36	22	10
+102	Entwicklungspsychologie und Pädagogische Psychologie	37	22	5
+103	Interaktive und intelligente Systeme, Bild- und Sprachverarbeitung, Computergraphik und Visualisierung	40	22	13
+104	Technische Thermodynamik	49	22	1
+105	Pharmakologie	8	23	20
+106	Agrar-, Forstwissenschaften und Tiermedizin	21	23	2
+107	Arbeitswissenschaft, Ergonomie, Mensch-Maschine-Systeme	37	23	3
+108	Ur- und Umformtechnik	42	23	21
+109	Produktionstechnik	43	23	3
+110	Materialwissenschaft	44	23	7
+111	Medizin	20	24	15
+112	Kognitive Neurowissenschaft	32	24	10
+113	Physikalische und Theoretische Chemie	43	24	3
+114	Biologische und Biomimetische Chemie	1	25	10
+115	Pneumologie, Klinische Infektiologie	6	25	6
+116	Geochemie, Mineralogie und Kristallographie	42	25	3
+117	Geotechnik, Wasserbau	49	25	3
+118	Organische Molekülchemie - Synthese, Charakterisierung, Theorie und Modellierung	5	27	17
+119	Systemtechnik	39	27	1
+120	Mathematik	43	27	45
+121	Pharmazie	5	28	3
+122	Hydrogeologie, Hydrologie, Limnologie, Siedlungswasserwirtschaft, Wasserchemie, Integrierte Wasser-Ressourcen Bewirtschaftung	30	28	13
+123	Energieverfahrenstechnik	43	28	2
+124	Mikrobielle Ökologie und Angewandte Mikrobiologie	12	29	9
+125	Mikrobiologie, Virologie und Immunologie	13	29	2
+126	Zahnheilkunde; Mund-, Kiefer- und Gesichtschirurgie	14	29	1
+127	Physische Geographie	38	29	4
+128	Statistik und Ökonometrie	42	29	1
+129	Pflanzenökologie und Ökosystemforschung	28	30	9
+130	Kern- und Elementarteilchenphysik, Quantenmechanik, Relativitätstheorie, Felder	41	30	14
+131	Ur- und Frühgeschichte (weltweit)	11	31	6
+132	FK Neurowissenschaft	13	31	9
+133	Statistische Physik, Weiche Materie, Biologische Physik, Nichtlineare Dynamik	8	32	12
+134	Biophysik	10	32	7
+135	Forstwissenschaften	31	32	5
+136	Physik des Erdkörpers	41	32	28
+137	Stoffwechselphysiologie, Biochemie und Genetik der Mikroorganismen	10	33	27
+138	Molekülchemie	22	34	2
+139	Neurowissenschaft	23	34	3
+140	FK Pflanzenwissenschaften	3	35	3
+141	Geologie, Ingenieurgeologie, Paläontologie	39	35	71
+142	Historische Linguistik	49	35	2
+143	Organische und Anorganische Geochemie, Biogeochemie, Mineralogie, Petrologie, Kristallographie, Lagerstättenkunde	40	36	39
+144	Phytomedizin	0	37	5
+145	Kunststofftechnik	37	37	2
+146	Physik, Chemie und Biologie des Meeres	38	37	3
+147	Genetik der Pflanzen	0	38	5
+148	Grundlagen der Biologie und Medizin	23	38	11
+149	Zoologie	24	39	1
+150	FK Zoologie	36	39	1
+151	Biologische Chemie und Lebensmittelchemie	17	40	2
+152	Organismische Neurobiologie	34	40	3
+153	Anatomie	36	40	5
+154	Biochemie und Biophysik der Pflanzen	0	41	12
+155	Systemische Neurowissenschaft, Computational Neuroscience, Verhalten	30	41	6
+156	Astrophysik und Astronomie	42	41	17
+157	Biologie des Verhaltens und der Sinne	38	42	8
+158	Ökologie der Tiere, Biodiversität und Ökosystemforschung	41	42	10
+159	Mechanisches Verhalten von Konstruktionswerkstoffen	28	43	1
+160	Praktische Philosophie	29	43	1
+161	Systematik und Morphologie der Tiere	40	44	4
+162	Experimentelle und Theoretische Polymerphysik	48	44	3
+163	Evolution und Systematik der Pflanzen und Pilze	41	45	4
+164	Informatik, System- und Elektrotechnik	20	47	1
+165	Pflanzenphysiologie	38	48	2
+166	Bauwesen und Architektur	9	49	1
+167	Sozial- und Verhaltenswissenschaften	18	49	2
+168	Organismische Interaktionen und chemische Ökologie pflanzlicher Systeme	33	49	1
+169	Wasserforschung	46	49	1
+170	Verfahrenstechnik, Technische Chemie	49	49	1

@@ -1,0 +1,36 @@
+id	label	x	y	weight<Amount of Abstracts>
+0	Geschichte der Philosophie	1	0	1
+1	Physiologie	6	0	1
+2	Wirtschaftstheorie	8	0	1
+3	Ältere deutsche Literatur	16	0	1
+4	Mittelalterliche Geschichte	0	1	1
+5	Virologie	3	2	1
+6	Geologie, Ingenieurgeologie, Paläontologie	11	2	1
+7	Bodenwissenschaften	19	2	1
+8	Physik des Erdkörpers	7	3	5
+9	Organische und Anorganische Geochemie, Biogeochemie, Mineralogie, Petrologie, Kristallographie, Lagerstättenkunde	5	4	2
+10	Physik und Chemie der Atmosphäre	8	5	1
+11	Ägyptische und Vorderasiatische Altertumswissenschaften	0	6	1
+12	Asienbezogene Wissenschaften	12	6	4
+13	Zahnheilkunde; Mund-, Kiefer- und Gesichtschirurgie	15	6	1
+14	Neuere deutsche Literatur	10	7	5
+15	Islamwissenschaften, Arabistik, Semitistik	19	7	1
+16	Evangelische Theologie	3	8	1
+17	Theater- und Medienwissenschaften	13	9	1
+18	Allgemeine und Vergleichende Sprachwissenschaft, Typologie, Außereuropäische Sprachen	7	10	1
+19	Einzelsprachwissenschaften	1	11	2
+20	Musikwissenschaften	16	11	1
+21	Tierzucht, Tierhaltung und Tierhygiene	11	13	1
+22	Klinische Chemie und Pathobiochemie	9	14	1
+23	Kunstgeschichte	18	14	1
+24	Automatisierungstechnik, Regelungssysteme, Robotik, Mechatronik, Cyber Physical Systems	4	15	1
+25	Europäische und Amerikanische Literaturen	14	15	2
+26	Politikwissenschaft	2	16	1
+27	Urologie	0	17	1
+28	Klinische Neurowissenschaften III - Augenheilkunde	12	17	1
+29	Forstwissenschaften	9	18	1
+30	Ur- und Frühgeschichte (weltweit)	0	19	1
+31	Physikalische und Theoretische Chemie	6	19	1
+32	Radiologie und Nuklearmedizin	13	19	1
+33	Immunologie	18	19	1
+34	FK Medizin	19	19	1

@@ -1,0 +1,27 @@
+id	label	x	y	weight<Amount of Abstracts>
+0	FK Zoologie	19	0	1
+1	Biologie	49	0	1
+2	Grundlagen der Biologie und Medizin	30	2	2
+3	Grundlagen von Pathogenese, Diagnostik, Therapie und Klinische Tiermedizin	7	4	1
+4	Anatomie	39	9	1
+5	Geowissenschaften	21	11	2
+6	Medizin	0	12	1
+7	FK Atmosphären- und Meeresforschung	13	14	1
+8	Ökologie der Tiere, Biodiversität und Ökosystemforschung	36	16	4
+9	Geodäsie, Photogrammetrie, Fernerkundung, Geoinformatik, Kartographie	7	17	1
+10	FK Geographie	12	22	1
+11	Kunstgeschichte	26	22	1
+12	Pflanzenökologie und Ökosystemforschung	49	22	3
+13	Systematik und Morphologie der Tiere	33	23	23
+14	Neuere und Neueste Geschichte (einschl. Europäische Geschichte der Neuzeit und Außereuropäische Geschichte)	17	26	1
+15	Evolution und Systematik der Pflanzen und Pilze	44	27	4
+16	Biologie des Verhaltens und der Sinne	0	30	4
+17	Evolution, Anthropologie	31	30	20
+18	Geologie, Ingenieurgeologie, Paläontologie	21	34	70
+19	Nachrichten- und Hochfrequenztechnik, Kommunikationstechnik und -netze, Theoretische Elektrotechnik	10	37	1
+20	Biochemie und Physiologie der Tiere	40	39	2
+21	Organische und Anorganische Geochemie, Biogeochemie, Mineralogie, Petrologie, Kristallographie, Lagerstättenkunde	23	47	14
+22	Evolutionäre Zell- und Entwicklungsbiologie der Tiere	49	48	3
+23	Physik, Chemie und Biologie des Meeres	2	49	2
+24	Physik des Erdkörpers	14	49	6
+25	Entwicklungsbiologie	45	49	2

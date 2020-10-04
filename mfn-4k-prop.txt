@@ -1,0 +1,49 @@
+id	label	x	y	weight<Amount of Abstracts>
+0	Chemische Festkörper- und Oberflächenforschung	0	0	41
+1	Verfahrenstechnik, Technische Chemie	3	0	57
+2	Materialwissenschaft	9	0	53
+3	Werkstofftechnik	11	0	58
+4	Systemtechnik	17	0	53
+5	Wärmeenergietechnik, Thermische Maschinen, Strömungsmechanik	5	1	83
+6	Mechanik und Konstruktiver Maschinenbau	9	1	64
+7	Produktionstechnik	13	1	113
+8	Elektrotechnik und Informationstechnik	15	2	79
+9	Physik der kondensierten Materie	3	3	155
+10	Statistische Physik, Weiche Materie, Biologische Physik, Nichtlineare Dynamik	7	3	31
+11	Informatik	19	3	111
+12	Physikalische und Theoretische Chemie	0	4	57
+13	Mathematik	18	4	115
+14	Teilchen, Kerne und Felder	13	5	40
+15	Astrophysik und Astronomie	5	6	65
+16	Wirtschaftswissenschaften	16	6	59
+17	Bauwesen und Architektur	10	7	53
+18	Sprachwissenschaften	18	7	66
+19	Polymerforschung	2	8	45
+20	Erziehungswissenschaft und Bildungsforschung	14	8	39
+21	Geophysik und Geodäsie	6	9	43
+22	Psychologie	14	9	94
+23	Analytik, Methodenentwicklung (Chemie)	0	10	23
+24	Optik, Quantenoptik und Physik der Atome, Moleküle und Plasmen	5	10	60
+25	Theologie	19	10	32
+26	Molekülchemie	1	11	80
+27	Alte Kulturen	11	11	83
+28	Sozial- und Kulturanthropologie, Außereuropäische Kulturen, Judaistik und Religionswissenschaft	16	11	49
+29	Biologische Chemie und Lebensmittelchemie	3	12	23
+30	Atmosphären-, Meeres- und Klimaforschung	7	12	62
+31	Literaturwissenschaft	18	12	71
+32	Grundlagen der Biologie und Medizin	0	14	255
+33	Neurowissenschaft	3	14	173
+34	Geschichtswissenschaften	18	14	118
+35	Medizin	0	15	500
+36	Geologie und Paläontologie	9	15	92
+37	Kunst-, Musik-, Theater- und Medienwissenschaften	15	15	57
+38	Mikrobiologie, Virologie und Immunologie	2	16	158
+39	Geochemie, Mineralogie und Kristallographie	8	16	77
+40	Geographie	13	16	34
+41	Philosophie	19	16	26
+42	Rechtswissenschaften	16	17	37
+43	Zoologie	5	18	85
+44	Pflanzenwissenschaften	0	19	116
+45	Agrar-, Forstwissenschaften und Tiermedizin	1	19	96
+46	Wasserforschung	11	19	39
+47	Sozialwissenschaften	19	19	80

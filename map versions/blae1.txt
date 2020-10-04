@@ -1,0 +1,107 @@
+id	label	x	y	weight<Amount of Abstracts>
+0	Radiologie und Nuklearmedizin	8	0	2
+1	Wissenschaftsgeschichte	26	0	1
+2	Neuere und Neueste Geschichte (einschl. Europäische Geschichte der Neuzeit und Außereuropäische Geschichte)	27	0	8
+3	Geschichtswissenschaften	37	0	1
+4	Organismische Neurobiologie	49	0	1
+5	Grundlagen des Rechts und der Rechtswissenschaft	9	1	1
+6	Religionswissenschaft und Judaistik	37	1	2
+7	Alte Geschichte	38	1	1
+8	Polymerforschung	0	2	1
+9	Ur- und Frühgeschichte (weltweit)	6	2	2
+10	Neuere deutsche Literatur	29	2	7
+11	Mittelalterliche Geschichte	37	2	2
+12	Ethnologie und Europäische Ethnologie	13	3	1
+13	Humangeographie	2	4	1
+14	Strafrecht, Strafprozessrecht	13	4	1
+15	Politikwissenschaft	0	6	2
+16	Einzelsprachwissenschaften	43	6	2
+17	Musikwissenschaften	14	7	2
+18	Kunst-, Musik-, Theater- und Medienwissenschaften	24	7	1
+19	Ägyptische und Vorderasiatische Altertumswissenschaften	42	7	1
+20	Geochemie, Mineralogie und Kristallographie	0	8	3
+21	Architektur, Bau- und Konstruktionsgeschichte, Bauforschung, Ressourcenökonomie im Bauwesen	33	8	1
+22	Klassische Archäologie	11	9	1
+23	Europäische und Amerikanische Literaturen	34	9	3
+24	Pathologie	49	9	1
+25	Theater- und Medienwissenschaften	18	11	3
+26	Städtebau/Stadtentwicklung, Raumplanung, Verkehrs- und Infrastrukturplanung, Landschaftsplanung	4	12	1
+27	Kunstgeschichte	19	12	1
+28	Asienbezogene Wissenschaften	46	12	4
+29	Ältere deutsche Literatur	18	13	4
+30	Physik, Chemie und Biologie des Meeres	7	14	1
+31	Klassische Philologie	19	14	2
+32	Islamwissenschaften, Arabistik, Semitistik	29	14	1
+33	Empirische Sozialforschung	30	14	3
+34	Allgemeine und Vergleichende Sprachwissenschaft, Typologie, Außereuropäische Sprachen	45	14	2
+35	Evolution und Systematik der Pflanzen und Pilze	2	16	1
+36	Historische Linguistik	38	16	1
+37	Theoretische Philosophie	10	17	1
+38	Geschichte der Philosophie	48	17	1
+39	Klinische Neurowissenschaften III - Augenheilkunde	14	18	1
+40	Mathematik	23	18	1
+41	Allgemeine Theoretische Chemie	36	19	1
+42	Präparative und Physikalische Chemie von Polymeren	39	19	2
+43	Zoologie	6	20	1
+44	Rechnerarchitekturen und eingebettete Systeme	39	20	1
+45	Theoretische Informatik	40	20	1
+46	Kardiologie, Angiologie	15	21	1
+47	Sozialpsychologie und Arbeits- und Organisationspsychologie	41	21	1
+48	Chemische Festkörper- und Oberflächenforschung	11	22	1
+49	Tierzucht, Tierhaltung und Tierhygiene	25	24	1
+50	Zahnheilkunde; Mund-, Kiefer- und Gesichtschirurgie	28	24	1
+51	Neurowissenschaft	43	24	2
+52	Biologische Chemie und Lebensmittelchemie	0	25	2
+53	Evolution, Anthropologie	42	25	1
+54	Klinische Neurowissenschaften II - Psychiatrie, Psychotherapie, Kinder- und Jugendspychiatrie	26	26	7
+55	Wirtschaftstheorie	35	26	1
+56	Physik des Erdkörpers	28	28	7
+57	Rheumatologie, Klinische Immunologie, Allergologie	49	28	1
+58	FK Neurowissenschaft	14	30	1
+59	Organische Molekülchemie - Synthese, Charakterisierung, Theorie und Modellierung	39	30	4
+60	Wirtschaftspolitik und Finanzwissenschaften	30	31	1
+61	Allgemeine, Biologische und Mathematische Psychologie	33	31	1
+62	Urologie	28	32	3
+63	Biomedizinische Technik und Medizinische Physik	12	33	2
+64	Nachrichten- und Hochfrequenztechnik, Kommunikationstechnik und -netze, Theoretische Elektrotechnik	33	33	1
+65	Hals-Nasen-Ohrenheilkunde	19	34	1
+66	Mechanik und Konstruktiver Maschinenbau	35	34	1
+67	Physikalische und Theoretische Chemie	4	35	3
+68	Physik und Chemie der Atmosphäre	41	35	2
+69	Produktionstechnik	4	36	1
+70	Bodenwissenschaften	23	36	2
+71	Elektrotechnik und Informationstechnik	42	36	1
+72	Kern- und Elementarteilchenphysik, Quantenmechanik, Relativitätstheorie, Felder	3	37	2
+73	Virologie	29	37	1
+74	Geologie, Ingenieurgeologie, Paläontologie	35	37	1
+75	Messsysteme	43	37	1
+76	FK Zoologie	3	38	1
+77	Frauenheilkunde und Geburtshilfe	23	39	4
+78	FK Medizin	33	39	1
+79	Interaktive und intelligente Systeme, Bild- und Sprachverarbeitung, Computergraphik und Visualisierung	6	40	1
+80	Humangenetik	26	40	6
+81	Thermodynamik und Kinetik von Werkstoffen	0	41	1
+82	Klinische Chemie und Pathobiochemie	8	41	1
+83	Physiologie	17	41	1
+84	Entwicklungsbiologie	39	41	1
+85	Agrar-, Forstwissenschaften und Tiermedizin	47	41	1
+86	Kinder- und Jugendmedizin	24	42	8
+87	Automatisierungstechnik, Regelungssysteme, Robotik, Mechatronik, Cyber Physical Systems	38	42	1
+88	Verfahrenstechnik, Technische Chemie	1	43	1
+89	Molekülchemie	4	44	1
+90	Hämatologie, Onkologie, Transfusionsmedizin	30	44	2
+91	Medizinische Mikrobiologie, Parasitologie, medizinische Mykologie und Hygiene, Molekulare Infektionsbiologie	5	46	1
+92	Immunologie	20	46	2
+93	Zellbiologie	32	46	2
+94	Medizin	49	46	6
+95	Grundlagen der Biologie und Medizin	0	47	9
+96	Werkstofftechnik	1	47	2
+97	Geologie und Paläontologie	2	49	2
+98	Unfallchirurgie und Orthopädie	11	49	4
+99	Zelluläre Neurowissenschaft	14	49	3
+100	Klinische Neurowissenschaften I - Neurologie, Neurochirurgie, Neuroradiologie	15	49	1
+101	Anästhesiologie	25	49	5
+102	Biochemie	34	49	4
+103	Optik, Quantenoptik, Physik der Atome, Moleküle und Plasmen	40	49	1
+104	Theoretische Physik der kondensierten Materie	42	49	2
+105	Biologie	49	49	1

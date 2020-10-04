@@ -1,0 +1,49 @@
+id	label	x	y	weight<Amount of Abstracts>
+0	Verfahrenstechnik, Technische Chemie	2	0	5
+1	Sozial- und Kulturanthropologie, Außereuropäische Kulturen, Judaistik und Religionswissenschaft	13	0	13
+2	Literaturwissenschaft	17	0	6
+3	Chemische Festkörper- und Oberflächenforschung	0	1	1
+4	Geschichtswissenschaften	11	1	14
+5	Theologie	14	1	5
+6	Geographie	19	1	6
+7	Geochemie, Mineralogie und Kristallographie	0	3	8
+8	Kunst-, Musik-, Theater- und Medienwissenschaften	8	3	6
+9	Sozialwissenschaften	13	4	11
+10	Rechtswissenschaften	19	4	7
+11	Produktionstechnik	2	5	15
+12	Sprachwissenschaften	4	5	13
+13	Wasserforschung	0	6	4
+14	Philosophie	7	6	5
+15	Wirtschaftswissenschaften	16	6	4
+16	Informatik	11	7	17
+17	Werkstofftechnik	5	8	7
+18	Alte Kulturen	14	8	4
+19	Biologische Chemie und Lebensmittelchemie	18	9	5
+20	Materialwissenschaft	6	10	6
+21	Geologie und Paläontologie	0	11	12
+22	Atmosphären-, Meeres- und Klimaforschung	3	11	8
+23	Elektrotechnik und Informationstechnik	9	11	14
+24	Bauwesen und Architektur	15	11	4
+25	Geophysik und Geodäsie	0	12	3
+26	Psychologie	6	12	13
+27	Erziehungswissenschaft und Bildungsforschung	7	12	3
+28	Mechanik und Konstruktiver Maschinenbau	13	12	7
+29	Mathematik	14	13	16
+30	Agrar-, Forstwissenschaften und Tiermedizin	19	13	13
+31	Systemtechnik	4	14	5
+32	W�rmeenergietechnik, Thermische Maschinen, Str�mungsmechanik	11	14	7
+33	Statistische Physik, Weiche Materie, Biologische Physik, Nichtlineare Dynamik	7	15	1
+34	Mikrobiologie, Virologie und Immunologie	17	15	11
+35	Zoologie	2	16	9
+36	Physikalische und Theoretische Chemie	9	16	9
+37	Analytik, Methodenentwicklung (Chemie)	12	17	6
+38	Pflanzenwissenschaften	19	17	16
+39	Teilchen, Kerne und Felder	0	18	9
+40	Polymerforschung	0	19	5
+41	Physik der kondensierten Materie	3	19	15
+42	Optik, Quantenoptik und Physik der Atome, Molek�le und Plasmen	6	19	9
+43	Astrophysik und Astronomie	9	19	9
+44	Molekülchemie	11	19	19
+45	Neurowissenschaft	15	19	24
+46	Medizin	16	19	58
+47	Grundlagen der Biologie und Medizin	19	19	33

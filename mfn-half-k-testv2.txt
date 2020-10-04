@@ -1,0 +1,44 @@
+id	label	x	y	weight<Amount of Abstracts>
+0	Optik, Quantenoptik und Physik der Atome, Moleküle und Plasmen	0	0	10
+1	Chemische Festkörper- und Oberflächenforschung	6	0	4
+2	Geochemie, Mineralogie und Kristallographie	9	0	6
+3	Werkstofftechnik	14	0	4
+4	Materialwissenschaft	16	0	6
+5	Produktionstechnik	13	1	14
+6	Polymerforschung	19	1	5
+7	Analytik, Methodenentwicklung (Chemie)	4	2	2
+8	Verfahrenstechnik, Technische Chemie	10	3	1
+9	Elektrotechnik und Informationstechnik	15	3	13
+10	Physikalische und Theoretische Chemie	1	4	8
+11	Wärmeenergietechnik, Thermische Maschinen, Strömungsmechanik	13	4	10
+12	Mechanik und Konstruktiver Maschinenbau	19	4	7
+13	Zoologie	7	5	7
+14	Systemtechnik	13	5	6
+15	Mathematik	0	6	16
+16	Bauwesen und Architektur	17	6	8
+17	Geologie und Paläontologie	2	7	18
+18	Informatik	14	7	12
+19	Astrophysik und Astronomie	5	8	7
+20	Teilchen, Kerne und Felder	10	8	5
+21	Wirtschaftswissenschaften	18	8	4
+22	Geophysik und Geodäsie	0	9	5
+23	Statistische Physik, Weiche Materie, Biologische Physik, Nichtlineare Dynamik	11	9	3
+24	Atmosphären-, Meeres- und Klimaforschung	3	10	6
+25	Sozialwissenschaften	19	10	12
+26	Sprachwissenschaften	16	11	11
+27	Agrar-, Forstwissenschaften und Tiermedizin	6	12	13
+28	Rechtswissenschaften	14	12	4
+29	Pflanzenwissenschaften	0	13	17
+30	Wasserforschung	10	13	8
+31	Geschichtswissenschaften	19	13	11
+32	Kunst-, Musik-, Theater- und Medienwissenschaften	15	14	1
+33	Philosophie	12	15	4
+34	Sozial- und Kulturanthropologie, Außereuropäische Kulturen, Judaistik und Religionswissenschaft	18	15	8
+35	Grundlagen der Biologie und Medizin	1	16	27
+36	Erziehungswissenschaft und Bildungsforschung	8	16	5
+37	Medizin	2	17	69
+38	Neurowissenschaft	5	18	25
+39	Alte Kulturen	15	18	13
+40	Mikrobiologie, Virologie und Immunologie	0	19	24
+41	Psychologie	9	19	15
+42	Theologie	19	19	6
